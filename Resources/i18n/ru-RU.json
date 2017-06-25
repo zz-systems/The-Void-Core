@@ -1,0 +1,37 @@
+﻿{
+    "GameName": "The Void",
+
+    "Menu": {
+        "MainMenu": "Главное Меню",
+        "Continue": "Продолжить",
+        "Settings": "Настройки",
+        "NewGame": "Играть",
+        "Restart": "Заново",
+        "Highscore": "Рекорды",
+        "Sound": "Звук",
+        "Vibration": "Вибрация",
+        "Achievements": "Достижения",
+        "About": "Об игре",
+        "Pause": "пауза",
+        "Quit": "Выход",
+
+        "RateUs": {
+            "Title" : "Оцените The Void",
+            "Yes": "Конечно!!",
+            "No": "Спасибо, не надо",
+            "Later": "Позже"
+        }
+    },
+
+    "GameOver": {
+        "Title": "Вы проиграли",
+        "Score": "Набрано",
+        "Best": "Рекорд",
+        "BestNew": "Рекорд <color=red>[новый!]</color>"
+    },
+
+    "Content": {
+        "About": "Первый проект от Spherical Brain - независимого разработчика \n • \n <color=#17A5C1ff>Сергей Зуев</color> \n Разработка, Графика, Звуки \n • \n Особая благодарность \n <color=#17A5C1ff>Моей семье</color>\n <color=#17A5C1ff>Richard Taets Von Amerongen</color>\n <color=#17A5C1ff>Christian Gläßer</color>\n <color=#17A5C1ff>Daniel Stiel</color> \n",
+        "RateUs": "Пожалуйста оцените нас, чтобы мы смогли улучшить игру :) \n \n Спасибо за поддержку!"
+    }
+}
